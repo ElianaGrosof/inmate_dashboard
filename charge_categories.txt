@@ -1,0 +1,126 @@
+short charges were used to categorize each charge
+
+    vehicle_related = [
+                     'VEH ASSAULT-1ST',
+                     'VEH ASSAULT-2ND',
+                     'VEH MANSLAUTR-1',
+                     'VEH MANSLAUTR-2',
+                     'UNAUT USE VEH-1',
+                     'UNAUT USE VEH-2',
+                     'UNAUT USE VEH-3',
+                     'AG VEH HOMICIDE']
+    
+    unknown = ['Unknown']
+    
+    sex_related = [
+                     'CHLD SEX PERFRM',
+                     'COMPEL PROST', 
+                     'COURSE SEX COND',
+                     'SEX TRAFFICKING',
+                     'SEXUAL ABUSE 3',
+                     'SEXUAL ABUSE-1',
+                     'EXPOSURE PERSON',
+                     'RAPE 3RD',
+                     'RAPE-1',
+                     'PRD SX ASLT CHD',
+                     'PRED SEX ASLT',
+                     'AGG SEX ABUSE 2',
+                     'AGG SEX ABUSE 3',
+                     'PATRON PROST -1',
+                     'PATRON PROST-2',
+                     'PATRON PROST-3',
+                     'PERS SEX ABUSE',
+                     'CRIM SEX ACT-2',
+                     'INCEST 1ST DEG',
+                     'INDEC MAT-MINOR',
+                ]    
+    theft = [
+             'GRAND LARCENY',
+             'GRAND LARCENY 3',
+             'PETIT LARCENY',
+             'ROBBERY-1',
+             'ROBBERY-3',
+             'BURGLARY-2',
+             'COMM BRIBERY-1',]
+    
+    drug_related = [
+                     'CSCS PRESCRIPN',
+                     'CSCS-1',
+                     'CSCS-2ND',
+                     'CSCS-3',
+                     'CSCS-4',
+                     'CSCS-5',
+                     'CSCS-SCHOOL',
+                     'DRUG TRAFFICKER',
+                     'CPCS-1ST',
+                     'CPCS-2ND',
+                     'CPCS-3',
+                     'CPCS-4',
+                     'CPCS-5',
+                     'CPCS-7',
+                     'CPSP 1',
+                     'CPSP 2',
+                     'CPSP 4',]
+    
+    conspiracy = [
+                 'CONSPIRACY 1',
+                 'CONSPIRACY 2',
+                 'CONSPIRACY 3',
+                 'CONSPIRACY-5',]
+    
+    bail_jumping = [
+                 'BAIL JUMPING-1',
+                 'BAIL JUMPING-2',
+                 'BAIL JUMPING-3',]
+    
+    assault_harassment = [
+             'AG CRIM CONTMPT',
+             'AGG CRIM WEAPON',
+             'AGG FAMILY OFF',
+             'AGG HARASS EMP',
+             'AGG HARASS-1',
+             'AGG INS FRAUD 4',
+             'AGG MANSLAUTR-2',
+             'AGGR ASSAULT',
+             'STRANGULATION 1',
+             'STRANGULATION 2',
+             'MANSLAUGHTER-2',
+             'MURDER-1ST DEG',
+             'MURDER-2',
+
+             'ASLT CHILD',
+             'ASSAULT',
+             'ASSAULT CHILD',
+             'ASSAULT-2ND',
+             'GANG ASLT 1ST',
+             'GANG ASLT 2ND',
+
+             'HARASSMENT 1ST',
+             'HARASSMENT 2ND',
+
+             'STALKING 2ND',
+             'STALKING 4TH',        
+            ]
+    
+    menacing = [
+                 'MENACE OFFICER',
+                 'MENACING 3RD',
+                 'MENACING-1ST',
+                 'MENACING-2ND',]
+    
+    firearm_related = [
+                 'CRM SAL F/ARM',
+                 'CRM SAL FRARM 3',
+                 'CRM USE F/ARM-1',
+                 'CRM USE F/ARM-2',
+                 'SALE FIREARM-1',
+                 'SALE FIREARM-2',
+                 'CRIM POS WEAP-3',
+                 'CRIM POS WEAP-4',
+                 'CPW-2ND DEGREE',
+
+                ]
+    arson = [
+             'ARSON 5',
+             'ARSON-2',
+             'ARSON-4',]
